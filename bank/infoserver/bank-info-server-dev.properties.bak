@@ -3,7 +3,7 @@
 server.port=7009
 
 
-from=7009.3  lanwweijie-dev12
+from=7009.2  lanwweijie-dev12
 
 spring.datasource.driver-class-name=com.mysql.jdbc.Driver
 spring.datasource.url=jdbc:mysql://localhost:3306/arrow?useUnicode=true&amp;characterEncoding=UTF-8
